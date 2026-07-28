@@ -19,11 +19,11 @@ and Finally type
 node Folder-Nester.js
 ```
 If done correctly you should see 
-```bash
+```
 --- Nested Folder Creator ---
 ```
 Before seeing
-```bash
+```
 Where should we build this? (Press Enter for current directory): 
 ```
 
