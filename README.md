@@ -18,7 +18,14 @@ and Finally type
 ```bash
 node Folder-Nester.js
 ```
-If done correctly you should see "--- Nested Folder Creator ---" Before seeing "Where should we build this? (Press Enter for current directory): " 
+If done correctly you should see 
+```bash
+--- Nested Folder Creator ---
+```
+Before seeing
+```bash
+Where should we build this? (Press Enter for current directory): 
+```
 
 And that it! You have successfully opened Folder-Nester on your PC. Now Go Nest Away!
 
